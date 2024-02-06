@@ -1,4 +1,4 @@
-# Learn Robot Manipulation
+# Learn Robotic Manipulation
 
 ## Introduction
 

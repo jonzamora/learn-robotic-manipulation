@@ -15,6 +15,6 @@ The Robotic Manipulation course has public materials, including:
 - [Textbook](https://manipulation.csail.mit.edu/index.html)
 
 
-It also seems that folks are recommending this series of Robotics courses from Professor Ross Lynch at Northwestern University:
+It also seems that folks are recommending this series of Robotics courses from Professor Kevin Lynch at Northwestern University:
 
 - [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics)
